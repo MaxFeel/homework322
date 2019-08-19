@@ -1,10 +1,8 @@
-package com.example.homework322;
+package com.example.homework711;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.opengl.Visibility;
 import android.os.Bundle;
-import android.text.Layout;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
